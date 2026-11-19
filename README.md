@@ -32,4 +32,5 @@ Construyo el software con el que negocios reales venden, despachan y cobran: pun
 
 ### Contacto
 
+🌐 [santibc.github.io](https://santibc.github.io) — portafolio y hoja de vida<br>
 📫 [vblogsanti@gmail.com](mailto:vblogsanti@gmail.com) — abierto a posiciones full stack o móvil y a nuevos proyectos.
